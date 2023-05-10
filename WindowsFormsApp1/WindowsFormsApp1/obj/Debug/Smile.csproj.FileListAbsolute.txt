@@ -1,0 +1,37 @@
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.AssemblyReference.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Program_characteristics_form.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ExceptionWindow.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.GenerateResource.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.CoreCompileInputs.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.AssemblyReference.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Program_characteristics_form.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.GenerateResource.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.CoreCompileInputs.cache
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dimao\Desktop\нубіп\2 курс\2 семестр\ООП\Лабораторна 17\варіант 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.AssemblyReference.cache
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.SuggestedBindingRedirects.cache
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Program_characteristics_form.resources
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.GenerateResource.cache
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Smile.csproj.CoreCompileInputs.cache
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\OG_Brodie\Desktop\labka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
